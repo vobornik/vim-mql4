@@ -216,7 +216,7 @@ syn keyword     mql4Function       AccountBalance AccountCredit AccountCompany A
 syn keyword     mql4Function       ArrayBsearch ArrayCopy ArrayCopyRates ArrayCopySeries ArrayDimension ArrayGetAsSeries ArrayInitialize ArrayIsSeries ArrayMaximum ArrayMinimum ArrayRange ArrayResize ArraySetAsSeries ArraySize ArraySort
 syn keyword     mql4Function       GetLastError IsConnected IsDemo IsDllsAllowed IsExpertEnabled IsLibrariesAllowed IsOptimization IsStopped IsTesting IsTradeAllowed IsTradeContextBusy IsVisualMode UninitializeReason
 syn keyword     mql4Function       TerminalCompany TerminalName TerminalPath
-syn keyword     mql4Function       Alert Comment GetTickCount MarketInfo MessageBox PlaySound Print SendFTP SendMail Sleep
+syn keyword     mql4Function       Alert Comment GetTickCount MarketInfo MessageBox PlaySound Print SendFTP SendMail SendNotification Sleep
 syn keyword     mql4Function       CharToStr DoubleToStr NormalizeDouble StrToDouble StrToInteger StrToTime TimeToStr
 syn keyword     mql4Function       IndicatorBuffers IndicatorCounted IndicatorDigits IndicatorShortName SetIndexArrow SetIndexBuffer SetIndexDrawBegin SetIndexEmptyValue SetIndexLabel SetIndexShift SetIndexStyle SetLevelStyle SetLevelValue
 syn keyword     mql4Function       Day DayOfWeek DayOfYear Hour Minute Month Seconds TimeCurrent TimeDay TimeDayOfWeek TimeDayOfYear TimeHour TimeLocal TimeMinute TimeMonth TimeSeconds TimeYear Year
